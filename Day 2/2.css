@@ -12,3 +12,25 @@
 #top{
 	text-decoration:underline;
 }
+#One{
+	text-align:center;
+	text-decoration:underline;
+}
+h4+p{
+	color:blue;
+}
+p+p{
+	background:red;
+}
+ul li{
+	color:green;
+}
+#two
+{
+	text-align:center;
+	text-decoration:underline;
+	font-weight:900;
+}
+div>h4{
+	background-color:green;
+}
