@@ -1,0 +1,17 @@
+#container{
+	width:900px;
+	height:100px;
+	background-color:azure;
+	margin:10px auto;
+	border:5px solid black;
+	display:flex;
+	flex-direction:row;
+	justify-content: space-evenly;
+}
+#container div{
+	height:100px;
+	width:100px;
+	color:white;
+	text-align:center;
+	font-size:10px;
+}
