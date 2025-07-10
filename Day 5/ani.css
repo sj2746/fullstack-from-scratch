@@ -1,0 +1,62 @@
+.design{
+	font-size:20px;
+	text-align:center;
+	width:15px;
+	border:5px solid black;
+	border-radius:10px;
+
+} 
+*{
+	background-color:black;
+	height:50px;
+}
+.music{
+	padding:100px;
+}
+#flexing {
+	border:5px solid black;
+	width:200px;
+	height:200px;
+	background-color:azure;
+	border-radius:50%;
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+}
+#box1{
+	background-color:yellow;
+	height:20px;
+}
+#box2{
+	background-color:green;
+	height:30px;
+}
+#box3{
+	background-color:red;
+	height:80px;
+	
+}
+#box4{
+	background-color:orange;
+	height:100px;
+}
+#box5{
+	background-color:skyblue;
+	height:40px;
+}
+#box6{
+	background-color:white;
+	height:30px;
+}
+#box7{
+	background-color:blue;
+	height:90px;
+}
+#box8{
+	background-color:lightgreen;
+	height:20px;
+}
+#box9{
+	background-color:pink;
+	height:50px;
+}
