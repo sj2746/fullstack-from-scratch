@@ -1,0 +1,53 @@
+h1,h2,h3{
+	text-align:center;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.btn-container{
+	margin: 0 auto;
+	width:400px;
+	height:400px;
+	background-color:azure;
+	display:flex;
+	text-align:center;
+	font-size:3rem;
+}
+.btn{
+	width:200px;
+	height:200px;
+	border:1px solid black;
+}
+.red{
+	background-color:pink;
+	border-radius:30px;
+}
+.green{
+	background-color:lightgreen;
+	border-radius:30px;
+}
+.blue{
+	background-color:blue;
+	border-radius:30px;
+}
+.yellow{
+	background-color:yellow;
+	border-radius:30px;
+}
+.flash{
+	background-color:white;
+}
+.back{
+	margin:0 auto;
+	width:700px;
+	height:600px;
+	background-color:azure;
+	border-radius:40px;
+	
+}
