@@ -1,0 +1,34 @@
+h1,h2{
+	text-align:center;
+}
+.outer{
+	margin: 0 auto;
+	width:400px;
+	height:400px;
+	background-color:azure;
+	display:flex;
+	flex-direction:row;
+}
+button{
+	width:200px;
+	height:200px;
+}
+.redcolor{
+	background-color:pink;
+	border-radius:50% 0 0 0;
+}
+.greencolor{
+	background-color:lightgreen;
+	border-radius:0 0 0 50%;
+}
+.bluecolor{
+	background-color:blue;
+	border-radius:0 50% 0 0 ;
+}
+.yellowcolor{
+	background-color:yellow;
+	border-radius:0 0 50% 0;
+}
+.highlight{
+	background-color:white;
+}
