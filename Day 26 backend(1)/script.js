@@ -19,13 +19,15 @@
 // console.log(math.g);
 // console.log(math.PI);
 //--------------------------------------------------------------
-//Method 4
-const math=require("./math");
+// //Method 4
+// const math=require("./math");
 
-console.log(math.sum(2.2,2.3));
-console.log(math.mul(2.2,2.3));
-console.log(math.g);
-console.log(math.PI);
+// console.log(math.sum(2.2,2.3));
+// console.log(math.mul(2.2,2.3));
+// console.log(math.g);
+// console.log(math.PI);
 
+const fruitInfo=require("./fruits");
+console.log(fruitInfo);
 
 
